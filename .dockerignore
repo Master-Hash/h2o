@@ -6,3 +6,6 @@ tmp
 .gitkeep
 .git
 tags
+Dockerfile
+.vscode
+# h2o.conf
